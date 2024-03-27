@@ -1,0 +1,64 @@
+.News{
+    height: 10vh;
+    background-color: darkgreen;
+
+}
+
+.content{
+    
+}
+
+.div{
+    width: 400px;
+    height: 600px;
+    background-color: red;
+} 
+.div1{
+    width: 400px;
+    height: 600px;
+    background-color: red;
+}
+.div2{
+    width: 400px;
+    height: 600px;
+    background-color: red;
+}
+.div3{
+    width: 400px;
+    height: 600px;
+    background-color: red;
+}
+.div4{
+    width: 400px;
+    height: 600px;
+    background-color: red;
+}
+.div5{
+    width: 400px;
+    height: 600px;
+    background-color: red;
+}
+.div6{
+    width: 400px;
+    height: 600px;
+    background-color: red;
+}
+.div7{
+    width: 400px;
+    height: 600px;
+    background-color: red;
+}
+
+.class{
+    display: flex;
+    gap: 30px;
+}  
+
+.class2{
+    display: flex;
+    gap: 30px;
+} 
+
+.class3{
+    gap: 30px;
+}
